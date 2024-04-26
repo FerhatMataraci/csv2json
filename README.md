@@ -2,7 +2,7 @@
 
 ## Description:
 
-Writen in C, CSV file to JSON file/string converter with utf8 support.
+Written in C, CSV file to JSON file/string converter with utf8 support.
 
 Can generate array of arrays or array of objects.
 
